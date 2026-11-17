@@ -19,7 +19,7 @@ practica-io/
  * ¿Podria utilizarse este mecanismo para copiar una imagen?
 
 
- ##  Miniactividad
+ ##  Mini actividad
 Indicar qué patrón utilizaría para:
 
 Seleccionar todos los archivos Java.
