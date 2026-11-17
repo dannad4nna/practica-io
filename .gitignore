@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -28,3 +29,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+>>>>>>> 84432acff9801a262c0622ed10a348c3954ae421
